@@ -13,7 +13,6 @@ Depends:
 Imports:
     grid,
     plyr,
-    ggproto,
     scales
 Enhances:
     FactoMineR, MASS

@@ -1,4 +1,4 @@
-GeomAxis <- proto(ggplot2:::Geom, {
+GeomAxis <- ggproto(ggplot2:::Geom, {
   objname <- "axis"
 
   default_stat <- function(.) StatIdentity

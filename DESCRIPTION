@@ -1,4 +1,4 @@
-Package: ggbiplot
+Package: ggbiplot2
 Type: Package
 Title: A ggplot2 based biplot
 Version: 0.55
@@ -18,4 +18,4 @@ Imports:
 Enhances:
     FactoMineR, MASS
 License: GPL-2
-URL: http://github.com/vqv/ggbiplot
+URL: http://github.com/deprekate/ggbiplot2

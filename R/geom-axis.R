@@ -40,7 +40,7 @@ GeomAxis <- proto(ggplot2:::Geom, {
         )
         GeomText$draw(text, scales, coordinates)
       },
-      ggbiplot:::GeomVector$draw(vec, scales, coordinates, arrow = arrow)
+      ggbiplot2:::GeomVector$draw(vec, scales, coordinates, arrow = arrow)
     )
   }
 })

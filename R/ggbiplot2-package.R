@@ -1,13 +1,13 @@
 # 
-# ggbiplot-package.R
+# ggbiplot2-package.R
 # 
 # Copyright 2014 Vincent Q. Vu. All rights reserved
 # 
 
-#' ggbiplot
+#' ggbiplot2
 #'
 #' @import ggplot2 plyr proto grid scales
-#' @name ggbiplot
+#' @name ggbiplot2
 #' @docType package
 NULL
 #' @title Wine dataset

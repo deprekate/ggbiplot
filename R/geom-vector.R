@@ -1,4 +1,4 @@
-GeomVector <- ggproto(ggplot2:::Geom, {
+GeomVector <- ggproto(ggplot2:::Geom, expr={
   objname <- "vector"
 
   default_stat <- function(.) StatIdentity
